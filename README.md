@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology , But B.A.English Literature 
 - 🌱 I’m currently learning C# , SQL , Online Tools 
 - ⚡ Fun fact: Only Two Option , one Win , Another Learn
-- 🏹Javeline guy....
+- 🏹 Javeline guy....
 
 <!---
 denmarkdeni/denmarkdeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
