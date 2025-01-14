@@ -2,9 +2,13 @@
 Welcome to my Github Profile!
 - 👀 I’m interested in **Technology, Finance , Psychology**
 - 🌱 currently learning **Web Development** in **Nass Online , Trivandrum**
-- 📫 To reach me **mariadeniston111@gmail.com**
+- 📫 To reach me ⬇️
+- Phone : **+91-9360735313**
+- Email : **mariadeniston111@gmail.com**
 - ⚡ Fun fact: **English Literature Student**, But decide to want **IT** Career 😌
-- And This is [**My Website**](https://curiousguy.neocities.org/Deni_Portfolio/deni_portfolio)
+- And This is [**My Website**](https://curiousguy.neocities.org/Deni_Portfolio/deni_portfolio) 🖤
+- Connect with me in [**LinkedIn**](https://www.linkedin.com/in/maria-deniston-a92789281) 💙
+- Follow me in [**Instagram**](https://www.instagram.com/maria.deniston?utm_source=qr&igsh=MTVlcTYwMjVkMXJ4bQ==) ♥️
 
  ## 🛠 Skills
 
