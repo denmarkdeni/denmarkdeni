@@ -60,7 +60,7 @@
 | **FakeDetect** | An AI-powered e-commerce platform to detect fake products based on seller & product history | [View on GitHub](https://github.com/denmarkdeni/FakeDetect) |
 | **Estate Connect** | Connects property dealers, customers & engineers with admin monitoring | [View on GitHub](https://github.com/denmarkdeni/Estate_Connect) |
 | **Forensic Ai** | AI Analysis Website for Evidences helps Investigator & Analyst | [View on GitHub](https://github.com/denmarkdeni/ForensicAi) |
-| **Vacation Jobs** | Micro jobs Portal for users who wants to earn in their free time | [View on GitHub](https://github.com/denmarkdeni/Vacationjob ) |
+| **Vacation Jobs** | Micro jobs Portal for users who wants to earn in their free time | [View on GitHub](https://github.com/denmarkdeni/Vacation_Jobs ) |
 | **Dyslexi Mate** | Website that hepls Converting text or pdf to help Students who have Dyslexia | [View on GitHub](https://github.com/denmarkdeni/DyslexiMate) |
 
 ---
