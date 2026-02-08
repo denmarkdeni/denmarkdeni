@@ -1,32 +1,27 @@
 <h1 align="center">👋 Hi, This is Maria Deniston</h1>
-<p align="center">✨ Django Developer | Problem Solver | Passionate Learner ✨</p>
+<p align="center">✨ Django Developer | Problem Solver | Passionate Trainer ✨</p>
 
 <p align="center">
-  <a href="https://maria-deniston-portfolio.netlify.app/"><img width=50px src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" /></a> &nbsp;
+  <a href="https://maria-deniston-portfolio.vercel.app/"><img width=50px src="https://cdn-icons-png.flaticon.com/512/3178/3178285.png" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/maria-deniston"><img width=50px src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /></a> &nbsp;
-  <a href="https://www.hackerrank.com/profile/mariadeniston111"><img width=50px src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-3032408.png" /></a> &nbsp;
-  <a href="https://www.instagram.com/maria.deniston?utm_source=qr&igsh=MTVlcTYwMjVkMXJ4bQ=="><img width=50px src="https://cdn-icons-png.flaticon.com/512/15707/15707749.png" /></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/mariadeniston111"><img width=50px src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-3-pack-logos-icons-3032408.png" /></a> &nbsp; 
   <a href="https://www.geeksforgeeks.org/user/mariadenie7n5/"><img width="50px"  src="https://github.com/denmarkdeni/denmarkdeni/blob/main/static/images/icons8-geeksforgeeks-96.png?raw=true" alt="GeeksforGeeks"/></a> &nbsp;
-  <a href="https://leetcode.com/u/denmarkdeni/"><img width="50px"  src="https://github.com/denmarkdeni/denmarkdeni/blob/main/static/images/leetcode.png?raw=true" alt="GeeksforGeeks"/></a> &nbsp;
+  <a href="https://leetcode.com/u/denis_10/"><img width="50px"  src="https://github.com/denmarkdeni/denmarkdeni/blob/main/static/images/leetcode.png?raw=true" alt="GeeksforGeeks"/></a> &nbsp;
 </p>
 
 ---
 
 ## 💬 About Me
 
-- 👀 I’m interested in **Web Development**
-- 🌱 Currently Contributing **Web Development** at **Soft Zone, Trivandrum**
-- 🎓 Background in **English Literature** (Yup, a coder with creativity! 😌)
-- 🧠 I believe in combining **Every Problem have a Solution**
-- 🕊️ Burning fire in heart to work towards **Peace**
-- ✨ Real wealth lies in **values and vision**, not just code
+- 👀 I’m a **Web Developer** 
+- 🧠 I believe in combining **Every Problem have a Solution** 
 
 ---
 
 ## 📞 Contact Me
 
 <p align="center">
-  <strong>Phone:</strong> +91-9360735313 &nbsp;💖&nbsp;  <strong>Email:</strong> mariadeniston111@gmail.com  
+  <strong>Phone:</strong> +91-9360735313 &nbsp;🚩&nbsp;  <strong>Email:</strong> mariadeniston111@gmail.com  
 </p>
 
 ---
@@ -67,8 +62,4 @@
 
 <h1 align="center">💛</h1>
 <h3 align="center">> ✨ “Tech is not just code. It’s a path to create Idea & Solution.” – <em>Maria Deniston</em> <</h3>
-
-<!---
-denmarkdeni/denmarkdeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
